@@ -33,6 +33,93 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="FYNWebCore\.vs\FYNWebCore\DesignTimeBuild\.dtbcache" />
+    <None Include="FYNWebCore\.vs\FYNWebCore\v15\.suo" />
+    <None Include="FYNWebCore\.vs\FYNWebCore\v15\Server\sqlite3\db.lock" />
+    <None Include="FYNWebCore\.vs\FYNWebCore\v15\Server\sqlite3\storage.ide" />
+    <None Include="FYNWebCore\.vs\wuwutest\v15\.suo" />
+    <None Include="FYNWebCore\.vs\wuwutest\v15\Server\sqlite3\db.lock" />
+    <None Include="FYNWebCore\.vs\wuwutest\v15\Server\sqlite3\storage.ide" />
+    <None Include="FYNWebCore\FYNWebCore\appsettings.Development.json" />
+    <None Include="FYNWebCore\FYNWebCore\appsettings.json" />
+    <None Include="FYNWebCore\FYNWebCore\obj\Debug\netcoreapp2.2\FYNWebCore.AssemblyInfoInputs.cache" />
+    <None Include="FYNWebCore\FYNWebCore\obj\Debug\netcoreapp2.2\FYNWebCore.assets.cache" />
+    <None Include="FYNWebCore\FYNWebCore\obj\Debug\netcoreapp2.2\FYNWebCore.csproj.CoreCompileInputs.cache" />
+    <None Include="FYNWebCore\FYNWebCore\obj\Debug\netcoreapp2.2\FYNWebCore.csprojAssemblyReference.cache" />
+    <None Include="FYNWebCore\FYNWebCore\obj\Debug\netcoreapp2.2\FYNWebCore.RazorAssemblyInfo.cache" />
+    <None Include="FYNWebCore\FYNWebCore\obj\FYNWebCore.csproj.nuget.cache" />
+    <None Include="FYNWebCore\FYNWebCore\obj\FYNWebCore.csproj.nuget.g.props" />
+    <None Include="FYNWebCore\FYNWebCore\obj\FYNWebCore.csproj.nuget.g.targets" />
+    <None Include="FYNWebCore\FYNWebCore\obj\project.assets.json" />
+    <None Include="FYNWebCore\FYNWebCore\Properties\launchSettings.json" />
+    <None Include="FYNWebCore\FYNWebCore\Views\Home\Index.cshtml" />
+    <None Include="FYNWebCore\FYNWebCore\Views\Home\Privacy.cshtml" />
+    <None Include="FYNWebCore\FYNWebCore\Views\Shared\Error.cshtml" />
+    <None Include="FYNWebCore\FYNWebCore\Views\Shared\_CookieConsentPartial.cshtml" />
+    <None Include="FYNWebCore\FYNWebCore\Views\Shared\_Layout.cshtml" />
+    <None Include="FYNWebCore\FYNWebCore\Views\Shared\_ValidationScriptsPartial.cshtml" />
+    <None Include="FYNWebCore\FYNWebCore\Views\_ViewImports.cshtml" />
+    <None Include="FYNWebCore\FYNWebCore\Views\_ViewStart.cshtml" />
+    <None Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
+    <None Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
+    <None Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map" />
+    <None Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map" />
+    <None Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" />
+    <None Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map" />
+    <None Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map" />
+    <None Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map" />
+    <None Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map" />
+    <None Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map" />
+    <None Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\LICENSE" />
+    <None Include="FYNWebCore\FYNWebCore\wwwroot\lib\jquery-validation\LICENSE.md" />
+    <None Include="FYNWebCore\FYNWebCore\wwwroot\lib\jquery\dist\jquery.min.map" />
+    <None Include="FYNWebCore\obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="FYNWebCore\obj\x86\Debug\wuwutest.csproj.CoreCompileInputs.cache" />
+    <None Include="FYNWebCore\obj\x86\Debug\wuwutest.csprojAssemblyReference.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="FYNWebCore\FYNWebCore.sln" />
+    <Content Include="FYNWebCore\FYNWebCore\FYNWebCore.csproj" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\css\site.css" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\favicon.ico" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\js\site.js" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\css\bootstrap.css" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\js\bootstrap.js" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\jquery-validation\dist\additional-methods.js" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\jquery-validation\dist\additional-methods.min.js" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\jquery-validation\dist\jquery.validate.js" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\jquery\dist\jquery.js" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\jquery\dist\jquery.min.js" />
+    <Content Include="FYNWebCore\FYNWebCore\wwwroot\lib\jquery\LICENSE.txt" />
+    <Content Include="FYNWebCore\wuwutest.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FYNWebCore\FYNWebCore\Controllers\HomeController.cs" />
+    <Compile Include="FYNWebCore\FYNWebCore\Models\ErrorViewModel.cs" />
+    <Compile Include="FYNWebCore\FYNWebCore\obj\Debug\netcoreapp2.2\FYNWebCore.AssemblyInfo.cs" />
+    <Compile Include="FYNWebCore\FYNWebCore\obj\Debug\netcoreapp2.2\FYNWebCore.RazorAssemblyInfo.cs" />
+    <Compile Include="FYNWebCore\FYNWebCore\obj\Debug\netcoreapp2.2\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="FYNWebCore\FYNWebCore\obj\Debug\netcoreapp2.2\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="FYNWebCore\FYNWebCore\obj\Debug\netcoreapp2.2\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="FYNWebCore\FYNWebCore\Program.cs" />
+    <Compile Include="FYNWebCore\FYNWebCore\Startup.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="FYNWebCore\bin\Debug\" />
+    <Folder Include="FYNWebCore\FYNWebCore\bin\Debug\netcoreapp2.2\" />
+    <Folder Include="FYNWebCore\obj\x86\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
